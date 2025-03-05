@@ -20,8 +20,10 @@ A **modern Android application** for managing **pupil records** using:
 ## 📸 **Screenshots**
 | Home Screen | Pupil Details |
 |------------|--------------|
-| ![Home](https://via.placeholder.com/200) | ![Details](https://via.placeholder.com/200) |
+| ![Home](https://github.com/odogwudev/PupilManagement/blob/main/Screenshot_20250305_231624.png) | ![Details](https://github.com/odogwudev/PupilManagement/blob/main/Screenshot_20250305_231642.png) |
 
+# Video Link
+(https://github.com/odogwudev/PupilManagement/blob/main/Screen_recording_20250305_231558.webm)
 ---
 
 ## 🎯 **Features**
